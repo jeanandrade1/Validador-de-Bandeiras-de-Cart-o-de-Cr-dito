@@ -1,2 +1,13 @@
-# Validador-de-Bandeiras-de-Cart-o-de-Cr-dito
-Validador de Bandeiras de Cartão de Crédito
+# Validador de Bandeira de Cartão de Créditos
+
+Validador de Bandeiras de Cartão de Crédito em python de:
+- MasterCard
+- Visa
+- American Express
+- Diners Club
+- Discover 
+- EnRoute
+- JCB
+- Voyager
+- HiperCard
+- Aura 
